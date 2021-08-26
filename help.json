@@ -1,0 +1,27 @@
+
+{
+  "apod": {
+    "title": "Astronomy Picture Of The Day",
+    "description": "Gets the current APOD from NASA's website",
+    "syntax": null,
+    "aliases": "Apod"
+  },
+  "marble": {
+    "title": "Marble",
+    "description": "Gets the view of NASA's DSCVR Spacecraft",
+    "syntax": null,
+    "aliases": "Globe, Earth"
+  },
+  "iotd": {
+    "title": "Image of the day",
+    "description": "Gets the current Astrobin image of the day",
+    "syntax": null,
+    "aliases": "iotd"
+  },
+  "search": {
+    "title": "Search",
+    "description": "Searches a query on Astrobin",
+    "syntax": "`!search <modifier> <query>` Modifiers: User, Modifier is optional",
+    "aliases": null
+  }
+}
