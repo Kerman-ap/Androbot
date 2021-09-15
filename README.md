@@ -10,6 +10,9 @@ Just a fun project, I'm learning
 Functions:
 
 APOD
+
 Astrobin Search
+
 NASA Marble
+
 Astrobin Image Of The Day
