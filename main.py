@@ -110,6 +110,7 @@ async def platesolve(ctx):
 
 @client.command()
 async def search(ctx, *, query):
+    spaced = query.replace(" ", "%20")
     type = query.split(" ")
 
     if len(type) > 1:
@@ -130,6 +131,7 @@ async def search(ctx, *, query):
 
     else:
         subtype = 'subjects'
+        query = spaced
 
 
 
