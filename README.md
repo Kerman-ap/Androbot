@@ -16,3 +16,8 @@ Astrobin Search
 NASA Marble
 
 Astrobin Image Of The Day
+
+Help
+
+The defualt prefix is '!'
+
