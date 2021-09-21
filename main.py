@@ -75,8 +75,8 @@ async def globe(ctx):
 async def help(ctx, function=None):
     if function == None:
         embed = discord.Embed(
-            title = "Androbot's Functions",
-            description = 'Androbot is a discord bot dedicated to Astronomy',
+            title = "Photon Collector's Functions",
+            description = 'Photon Collector is a discord bot dedicated to Astronomy',
             color = discord.Colour.purple()
         )
         with open('help.json') as json_file:
