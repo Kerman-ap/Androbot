@@ -1,4 +1,4 @@
-# Androbot
+# Photon Collector
 A discord bot dedicated to Astronomy
 
 Put all your API keys in config.json
